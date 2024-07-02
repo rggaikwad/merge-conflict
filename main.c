@@ -3,13 +3,14 @@ pseudo code
 Initial Function()
 {
 
- this  added in feature2
+ this  added in  master
 }
 
 Initial Security()
 {
 
- this is added in feature2
+ this is added in master
+
 }
 
 
